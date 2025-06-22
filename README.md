@@ -1,1 +1,3 @@
-# mySandboxMVP 
+# Finance Dashboard MVP
+
+Initial setup.
